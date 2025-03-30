@@ -2,4 +2,4 @@ Testando
 Uma
 Atualização
 do arquivo
-a
+Enviando a funcionalidade x
