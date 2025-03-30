@@ -5,8 +5,6 @@ do arquivo
 <<<<<<< HEAD
 Enviando a funcionalidade x
 =======
-2
-enviando
-a funcionalidade
-X
+Enviando a funcionalidade x
+
 >>>>>>> 1acf4ed (Tarefa pronta)
