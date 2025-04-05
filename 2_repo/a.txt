@@ -2,4 +2,11 @@ Testando
 Uma
 Atualização
 do arquivo
+<<<<<<< HEAD
 Enviando a funcionalidade x
+=======
+2
+enviando
+a funcionalidade
+X
+>>>>>>> 1acf4ed (Tarefa pronta)
